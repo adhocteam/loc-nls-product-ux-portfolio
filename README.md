@@ -1,6 +1,6 @@
 Portfolio samples for Danny Chapman, Creative Director at Ad Hoc.
 
-Three items included, each in PDF form, for:
+Three items included:
 
 - Healthcare.gov (Window Shopping)
 - Design Leadership at Ad Hoc
